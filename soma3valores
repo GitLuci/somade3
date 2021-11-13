@@ -1,0 +1,5 @@
+numa = int(input("Digite o primeiro numero: "))
+numb = int(input("Digite o segundo numero: "))
+numc = int(input("Digite o terceiro numero: "))
+soma = numa + numb + numc 
+print("A soma entre {} + {} + {} é de: {}".format(numa, numb, numc, soma))
